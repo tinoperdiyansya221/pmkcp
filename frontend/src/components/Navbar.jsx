@@ -50,7 +50,7 @@ export default function Navbar() {
                 </div>
                 <div className="flex flex-1 items-center justify-between sm:items-stretch sm:justify-start">
                   <div className="flex flex-shrink-0 items-center">
-                    <Link to="/" className="text-xl font-bold text-blue-600">
+                    <Link to="/" className=" ml-3 text-xl font-bold text-blue-600">
                       Pengaduan Masyarakat
                     </Link>
                   </div>
