@@ -38,29 +38,6 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Jam Operasional */}
-          <div>
-            <h3 className="text-lg font-semibold mb-4">Jam Operasional</h3>
-            <div className="space-y-2 text-sm text-gray-300">
-              <div className="flex justify-between">
-                <span>Senin - Jumat</span>
-                <span>08:00 - 17:00</span>
-              </div>
-              <div className="flex justify-between">
-                <span>Sabtu</span>
-                <span>08:00 - 12:00</span>
-              </div>
-              <div className="flex justify-between">
-                <span>Minggu</span>
-                <span>Tutup</span>
-              </div>
-              <div className="mt-3 p-2 bg-blue-600 rounded text-center">
-                <span className="text-xs font-medium">
-                  Pengaduan online 24/7
-                </span>
-              </div>
-            </div>
-          </div>
         </div>
 
         {/* Copyright */}
